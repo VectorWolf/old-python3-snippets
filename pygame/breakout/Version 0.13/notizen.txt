@@ -1,0 +1,2 @@
+Maps müssen 20 Pixel breit (600/30)
+und 32 Pixel hoch sein (800/25)
