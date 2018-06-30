@@ -9,6 +9,7 @@ The command:
 Launches a program which finds out all possible (german) words you can form wit the given letters
 
 For the applications inside the *pygame* folder, you'll have to have pygame with python3 support installed
+
 The command:
 
     $ cd pygame/breakout/Version\ 0.13
